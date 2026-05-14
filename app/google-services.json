@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982126071054",
+    "project_id": "shaalevikaas-dc3c4dba",
+    "storage_bucket": "shaalevikaas-dc3c4dba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982126071054:android:460b7a72954bab57205b5f",
+        "android_client_info": {
+          "package_name": "com.example.shaalevikaas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hHygWetzYEqjST4sSxQp31JSI9oD6Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
