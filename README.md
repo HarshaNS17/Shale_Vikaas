@@ -89,5 +89,5 @@ AI Verification: Using Gemini AI to automatically verify the quality of infrastr
 •
 Global Leaderboard: Recognizing top alumni contributors and most improved schools.
 👨‍💻 Author
-Harsha N S
+Harsha
 Developed as part of the Namma Skill Initiative.
